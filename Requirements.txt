@@ -1,0 +1,8 @@
+transformers
+datasets
+sentencepiece
+huggingface_hub
+ipywidgets
+pandas
+matplotlib
+notebook
